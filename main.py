@@ -1,4 +1,4 @@
 def login();
     pass
-def loginforfacebook();
+def loginforgoogle();
     pass    
